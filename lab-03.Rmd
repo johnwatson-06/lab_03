@@ -83,11 +83,10 @@ How many observations are there in the data set?
 ## Exercise 2
 
 ```{r pivoting}
-## Uncomment and complete the following code
 
 staff_long <- staff %>%
   pivot_longer(
-    cols = faculty_type, 
+    cols = -faculty_type, 
     names_to = "year",
     values_to = "percent"
     )
