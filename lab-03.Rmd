@@ -20,8 +20,7 @@ library(ggplot2)
 ```{r echo=FALSE, out.width="100%"}
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
-
-_Write your comments about image 1 below_
+maths & data problem - can't have 1000 billion chinese speakers. 
 
 
 
@@ -33,7 +32,7 @@ _Write your comments about image 1 below_
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-_Write your comments about image 2 below_
+data & people - segments all different lengths. Also title doesnt make sense - how have they calculated pop density and total area
 
 
 
@@ -44,7 +43,7 @@ _Write your comments about image 2 below_
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
+data & people - no scales on axes and hard to read graph
 
 
 
@@ -55,7 +54,7 @@ _Write your comments about image 3 below_
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-_Write your comments about image 4 below_
+people - y axis label is not a label for an axis, also title doesnt make sense, also hard to read and interpret
 
 
 
